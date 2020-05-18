@@ -170,7 +170,7 @@ body {
 /*Features*/
 
 .features-section {
-    margin-top: 94px;
+    padding-top: 94px;
 }
 
 .features-section .decoration-item {
@@ -218,7 +218,7 @@ body {
 
 /* Work section*/
 .work-section {
-    margin-top: 94px;
+    padding-top: 94px;
 }
 
 .work-section-header {
@@ -266,8 +266,7 @@ body {
 
 /* Team */
 .team-section {
-    margin-top: 94px;
-    padding: 94px 0px;
+    padding-top: 94px;
     background-color: #F5F4FA;
 }
 
@@ -348,7 +347,7 @@ body {
 
 /* Clients */
 .clients-section {
-    margin-top: 94px;
+    padding-top: 94px;
 }
 
 .clients-section-list {
@@ -468,6 +467,7 @@ body {
 }
 
 .footer-copyright {
+    margin: 0;
     padding-top: 18px;
     padding-bottom: 21px;
 
